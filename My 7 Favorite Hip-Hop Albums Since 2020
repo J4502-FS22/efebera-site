@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>My 7 Favorite Rap Albums Since 2020</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Roboto+Slab:wght@500&family=Rubik:ital,wght@0,400;1,700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="my-styles.css">
+  </head>
+
+  <body class="media-list">
+    <a class="skip-link" href="#content">Skip to content</a>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a class="active" href="My 7 Favorite Rap Albums Since 2020.html"> My 7 Favorite Rap Albums Since 2020</a></li>
+        <li><a href="7 Best Attractions in Ohio.html">7 Best Places to go in Ohio</a></li>
+        <li><a href="laumeier-sculpture-park.html">Why You Should Visit Laumeier Sculpture Park</a></li>
+      </ul>
+    </nav>
+
+    <main id="content">
+      <h1>My 7 Favorite Rap Albums Since 2020</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at felis id quam porttitor posuere. Pellentesque nec aliquet est. Nam malesuada consequat condimentum. Aliquam rutrum fermentum odio at mattis. Etiam scelerisque enim sit amet tempor ullamcorper. Vestibulum ultricies metus nibh, ut tristique ligula malesuada vel. Nullam id iaculis est.</p>
+      <section class="media-holder">
+        <div class="image-holder">
+          <img src="images/Burden of Proof- Benny the Butcher.jpg" alt="Album cover of Burden of Proof by Benny the Butcher"
+        </div>
+        <div class="text-holder">
+          <h2>Burden of Proof</h2>
+          <p>By Benny the Butcher</p>
+          <p><a href="https://open.spotify.com/album/6xlQNGdro3cCcn8v1ZEGm3">Listen to Burden of Proof" on Spotify.com</a></p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras congue lorem mattis gravida condimentum. Nam semper ullamcorper dolor sit amet posuere. Morbi viverra fringilla sapien quis tincidunt. Aliquam cursus, quam sit amet dignissim eleifend, diam ipsum convallis massa, at luctus metus nulla sed risus. </p>
+        </div>
+      </section>
+
+      <section class="media-holder">
+        <div class="image-holder">
+          <img src="images/freddie_gibbs_alfredo.jpg" alt="Album Cover of Alfredo by Freddie Gibbs">
+        </div>
+        <div class="text-holder">
+          <h2>Alfredo</h2>
+          <p>By Freddie Gibbs</p>
+          <p><a href="https://open.spotify.com/album/3znl1qe13kyjQv7KcR685N">Listen to Alfredo on Spotify</a></p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras congue lorem mattis gravida condimentum. Nam semper ullamcorper dolor sit amet posuere. Morbi viverra fringilla sapien quis tincidunt. Aliquam cursus, quam sit amet dignissim eleifend, diam ipsum convallis massa, at luctus metus nulla sed risus. </p>
+        </div>
+      </section>
+
+      <section class="media-holder">
+        <div class="image-holder">
+          <img src="images/from_a_king_to_a_god.jpg" alt="Album Cover of From a King to a God by Conway the Machine>
+        </div>
+        <div class="text-holder">
+          <h2>From a King to a God</h2>
+          <p>Conway the Machine</p>
+          <p><a href="https://open.spotify.com/album/6DGCEJKSnaK626YgoElkjk">Get "From a King to a God" on Spotfiy.com</a></p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras congue lorem mattis gravida condimentum. Nam semper ullamcorper dolor sit amet posuere. Morbi viverra fringilla sapien quis tincidunt. Aliquam cursus, quam sit amet dignissim eleifend, diam ipsum convallis massa, at luctus metus nulla sed risus. </p>
+        </div>
+      </section>
+
+      <section class="media-holder">
+        <div class="image-holder">
+          <img src="images/kings_disease_nas.jpg" alt="Album Cover of Kings Disease by Nas">
+        </div>
+        <div class="text-holder">
+          <h2>Kings Disease</h2>
+          <p>By Nas</p>
+          <p><a href="https://open.spotify.com/album/5ZQjqg9obFzyGuxGj0mjSi">Listen to "Kings Disease" on Spotify.com</a></p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras congue lorem mattis gravida condimentum. Nam semper ullamcorper dolor sit amet posuere. Morbi viverra fringilla sapien quis tincidunt. Aliquam cursus, quam sit amet dignissim eleifend, diam ipsum convallis massa, at luctus metus nulla sed risus. </p>
+        </div>
+      </section>
+
+      <section class="media-holder">
+        <div class="image-holder">
+          <img src="images/the_off_season_j_cole.jpg" alt="Album Cover of The Off-Season by J Cole">
+        </div>
+        <div class="text-holder">
+          <h2>The Off-Season</h2>
+          <p>By J Cole</p>
+          <p><a href="https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX">Listen to "The Off-Season" on Spotify.com</a></p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras congue lorem mattis gravida condimentum. Nam semper ullamcorper dolor sit amet posuere. Morbi viverra fringilla sapien quis tincidunt. Aliquam cursus, quam sit amet dignissim eleifend, diam ipsum convallis massa, at luctus metus nulla sed risus. </p>
+        </div>
+      </section>
+
+      <section class="media-holder">
+        <div class="image-holder">
+          <img src="images/no_rest_for_the_wicked_ransom.jpg" alt="Album Cover of No Rest for the Wicked">
+        </div>
+        <div class="text-holder">
+          <h2>No Rest for the Wicked</h2>
+          <p>By Ransom</p>
+          <p><a href="https://open.spotify.com/album/6gJuNV4NZMMoPVrVI34VsO">Listen to "No Rest for the Wicked" on Spotify.com</a></p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras congue lorem mattis gravida condimentum. Nam semper ullamcorper dolor sit amet posuere. Morbi viverra fringilla sapien quis tincidunt. Aliquam cursus, quam sit amet dignissim eleifend, diam ipsum convallis massa, at luctus metus nulla sed risus. </p>
+        </div>
+      </section>
+
+      <section class="media-holder">
+        <div class="image-holder">
+          <img src="images/its_almost_ dry_pushat.jpg" alt="Album Cover of Its Almost Dry">
+        </div>
+        <div class="text-holder">
+          <h2>Its Almost Dry</h2>
+          <p>By Pusha T</p>
+          <p><a href="https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH">Listen to "Its Almsot Dry" on Spotify.com</a></p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras congue lorem mattis gravida condimentum. Nam semper ullamcorper dolor sit amet posuere. Morbi viverra fringilla sapien quis tincidunt. Aliquam cursus, quam sit amet dignissim eleifend, diam ipsum convallis massa, at luctus metus nulla sed risus. </p>
+        </div>
+      </section>
+
+    </main>
+
+    <footer>Patrick Garvin, 2022; All images for book titles come from Amazon.</footer>
+  </body>
+</html>
