@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>7 Best Attractions in Ohio</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Roboto+Slab:wght@500&family=Rubik:ital,wght@0,400;1,700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="my-styles.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#content">Skip to content</a>
+    <nav>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="My Favorite Rap Albums since 2020.html">My Favorite Rap Albums since 2020</a></li>
+				<li><a class="active" href="ohio-best- attractions.html">5 Must-go places in Ohio</a></li>
+
+      </ul>
+		</nav>
+
+    <main id="content">
+      <h1>5 Best Attractions in Ohio</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras congue lorem mattis gravida condimentum.</p>
+
+      <section class="location-holder">
+				<div class="text-holder">
+					<h2>Cedar Point</h2>
+					<address>
+						1 Cedar Point Drive<br>
+						Sandusky, OH<br>
+						44870<br>
+						<a href="tel:+13146456337">(314) 645-6337</a>
+					</address>
+					<p><a href="https://www.cedarpoint.com/">Visit Cedar Point's website</a></p>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at felis id quam porttitor posuere. Pellentesque nec aliquet est. Nam malesuada consequat condimentum.</p>
+				</div>
+			</section>
+			<section class="location-holder">
+				<div class="text-holder">
+					<h2>King's Island</h2>
+					<address>
+						6300 Kings Island Dr.<br>
+						Mason, OH <br>
+						45040<br>
+						<a href="tel:+13147736600">(314) 773-6600</a>
+					</address>
+					<p><a href="https://www.visitkingsisland.com/">Visit King Island's website</a></p>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at felis id quam porttitor posuere. Pellentesque nec aliquet est. Nam malesuada consequat condimentum.</p>
+				</div>
+			</section>
+			<section class="location-holder">
+				<div class="text-holder">
+					<h2>Rock and Roll Hall of Fame Museum</h2>
+					<address>
+						1100 E 9th St<br>
+						Clevelans, OH<br>
+					  44114<br>
+						<a href="tel:+13147768309">(314) 776-8309</a>
+					</address>
+					<p><a href="https://www.rockhall.com/">Visit Rock and Roll Hall of Fame website</a></p>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at felis id quam porttitor posuere. Pellentesque nec aliquet est. Nam malesuada consequat condimentum.</p>
+				</div>
+			</section>
+			<section class="location-holder">
+				<div class="text-holder">
+					<h2>Hocking Hills State Park</h2>
+					<address>
+						19852 OH-664<br>
+						Logan, OH<br>
+						43138<br>
+						<a href="tel:+13145444900">(314) 544-4900</a>
+					</address>
+					<p><a href="www.hockinghillsstatepark.com
+           ">Visit Hocking Hills State Park Website</a></p>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at felis id quam porttitor posuere. Pellentesque nec aliquet est. Nam malesuada consequat condimentum.</p>
+				</div>
+			</section>
+			<section class="location-holder">
+				<div class="text-holder">
+					<h2>National Museum of the U.S. Air Force</h2>
+					<address>
+          1100 Spaatz St<br>
+						Dayton, OH<br>
+						45431<br>
+						<a href="tel:+13142547359">(314) 254-7359</a>
+					</address>
+					<p><a href="www.nationalmuseum.af.mil ">Visit National Museum of the U.S. Air Force</a></p>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at felis id quam porttitor posuere. Pellentesque nec aliquet est. Nam malesuada consequat condimentum.</p>
+				</div>
+
+
+<footer>Justin Efebera, 2022</footer>
+  </body>
+</html>
